@@ -1,12 +1,9 @@
 Division of labor:
 - Nikita Filippov (nf319)
-    - Part B (Tasks 1, 2, 3, 4, 5)
-- Suchi Borkar (sb2431)
-    - Part A (Tasks 1, 2)
-- Sean Tom (st1061)
-    - Part A (Tasks 3, 4)
+    - Parts A & B
+    - Two of my team members decided to go solo, so I am working on this project on behalf of myself only.
 
-Libraries used:
+List of libraries:
 - mysql
 - zipfile
 - io
